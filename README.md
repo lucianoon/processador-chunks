@@ -177,8 +177,4 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para detalhes.
 
 Para dúvidas ou sugestões:
 - Abra uma issue no GitHub
-- Email: seu-email@exemplo.com
-
----
-
-**Desenvolvido com ❤️ para a comunidade de IA brasileira**
+- Email: lucianomevam@outlook.com
